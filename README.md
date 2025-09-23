@@ -3,8 +3,8 @@ This is my first git repository, and I'm making it as part of a tutorial for the
 
 Ok, I'm supposed to write a bit about myself...
 
-I'm Phil, I'm a postdoc in evodevo biology working on photoreceptor cell evolution. I used to be exclusively wetlab, and for the last 6 months have been making the journey to become someone who can look at scRNAseq data and use it to learn about cell type evolution. 
+I'm Phil, I was a postdoc in evodevo biology working on photoreceptor cell evolution for nearly 7 years, and used single cell RNAseq as a big part of my work. I used to be exclusively wetlab, but managed to learn a lot of the bioinformatics work I needed to do for my projects. I am comfortable in R and commandline-based programs, and can occassionally poke at some Python code from collaborators until it works in the way that I need it to (thank you internet for always being there to help me with that!)
 
-This project has led me to learn a lot of basic bioinformatics work, including learning R and Python and now, apparently, GitHub. I'm hoping I can continue to improve the way I'm doing my analyses so that (a) it gets faster and easier for me to expand on the analysees I have made, as well as to improve my own capabilities in data science and project management, which I hope to continue with going forward.
+I'm going to start some structured mini-projects just for myself, because I want to check out and feel comfortable with basic fully-bioinformatic workflows that will hopefully become part of common tasks I do in an industrial setting. 
 
 Wish me luck on my Git adventures!
